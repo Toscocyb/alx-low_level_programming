@@ -45,4 +45,7 @@ FYI: The standard library provides a similar function: abs. Run man abs to learn
 
 	* Prototype: void times_table(void);
 	* Format: see example 
-11. 
+11. 10-add.c = Write a function that adds two integers and returns the result.
+
+	* Prototype: int add(int, int); 
+12. 
