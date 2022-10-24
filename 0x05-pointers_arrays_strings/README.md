@@ -20,4 +20,7 @@ FYI: The standard library provides a similar function: puts. Run man puts to lea
 6. 5-rev_string.c = Write a function that reverses a string.
 
 	* Prototype: void rev_string(char *s); 
-7. 
+7. 6-puts2.c = Write a function that prints every other character of a string, starting with the first character, followed by a new line.
+
+	* Prototype: void puts2(char *str); 
+8. 
