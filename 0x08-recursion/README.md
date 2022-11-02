@@ -7,4 +7,8 @@ FYI: The standard library provides a similar function: puts. Run man puts to lea
 2. 1-print_rev_recursion.c = Write a function that prints a string in reverse.
 
 	* Prototype: void _print_rev_recursion(char *s); 
-3. 
+3. 2-strlen_recursion.c = Write a function that returns the length of a string.
+
+	* Prototype: int _strlen_recursion(char *s);
+FYI: The standard library provides a similar function: strlen. Run man strlen to learn more. 
+4. 
